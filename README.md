@@ -8,4 +8,4 @@
 
 <strong>Fecha: </strong> 10 de mayo de 2025
 
-<img src="img/DIAGRAMA DE CLASES.jpg" alt="Diagrama de clases MVC">
+<img src="DIAGRAMA DE CLASES.jpg" alt="Diagrama de clases MVC">
